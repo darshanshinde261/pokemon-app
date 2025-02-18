@@ -1,4 +1,4 @@
 ## setup
 - clone the repo
-- run command npm run dev
+- run command npm i
 - npm run start
